@@ -31,7 +31,6 @@
     -webkit-transform: translate(-50%) skewY(-30deg);
     -ms-transform: translate(-50%) skewY(-30deg);
     transform: translate(-50%) skewY(-30deg);
-    /* background: #0d1020; */
 }
 
 @media (max-width:800px) {}
@@ -1494,7 +1493,6 @@
 /* sc-component-id: Footer__Wrapper-s1jlpdks-0 */
 
 .dZOGZe {
-    /* background: #0d1020; */
     background: #EFF3F5;
     padding-top: 70px;
     padding-bottom: 64px;
@@ -1790,7 +1788,7 @@ summary {
 html {
     line-height: 1.15;
     box-sizing: border-box;
-    background: #0d1020;
+    background: #EFF3F5;
 }
 
 body {
