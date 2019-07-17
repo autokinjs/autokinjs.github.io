@@ -43,7 +43,7 @@
 .background-wrapper {
     position: relative;
     overflow: hidden;
-    background: #EFF3F5;
+    background: #FFF;
 }
 
 .wrapper-full {
@@ -238,7 +238,7 @@
 .split-card-full {
     background: white;
     border-radius: 8px;
-    box-shadow: 0px 4px 8px rgba(8, 35, 51, 0.05);
+    box-shadow: 0 0 0 1px rgba(18,21,26,.04), 0 16px 32px 0 rgba(18,21,26,.12);
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
@@ -298,7 +298,7 @@
 }
 
 .footer-wrapper {
-    background: #EFF3F5;
+    background: #FFF;
     padding-top: 70px;
     padding-bottom: 64px;
     color: #8FA6B2;
@@ -452,7 +452,7 @@ summary {
 html {
     line-height: 1.15;
     box-sizing: border-box;
-    background: #EFF3F5;
+    background: #FFF;
 }
 
 body {
