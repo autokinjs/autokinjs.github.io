@@ -457,7 +457,7 @@ html {
 
 body {
     margin: 0;
-    font-family: 'Open Sans';
+    font-family: 'Metropolis';
     font-variant-ligatures: none;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
@@ -473,7 +473,7 @@ body {
 }
 
 h1, h2 {
-    font-family: 'Montserrat';
+    font-family: 'Metropolis';
     font-weight: 700;
 }
 
