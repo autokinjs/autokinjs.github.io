@@ -511,8 +511,9 @@ code {
 }
 
 .hero-logo {
-    width: 85px;
-    vertical-align: bottom;
+    width: 60px;
+    vertical-align: top;
+    padding-right: 10px;
 }
 
 @media (max-width:800px) {
