@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{256:function(n,t,u){"use strict";u.r(t),u.d(t,"default",(function(){return c}));var o=u(0);u(1);function c(){return Object(o.jsx)("div",null,"not found")}}}]);
+//# sourceMappingURL=component---node-modules-gatsby-theme-autokin-core-src-pages-404-js-bd386f77a1508e72435d.js.map
